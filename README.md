@@ -1,4 +1,4 @@
-# CareerTwin AI 🚀
+# CareerTwin AI
 
 > **AI-Powered Career Intelligence Platform with Predictive Analytics & ML-Driven Professional Development**
 
@@ -6,7 +6,7 @@ An intelligent full-stack platform that leverages machine learning to analyze re
 
 ---
 
-## 🎯 Overview
+## Overview
 
 CareerTwin AI combines advanced machine learning pipelines with an intuitive web interface to help professionals:
 
@@ -20,7 +20,7 @@ CareerTwin AI combines advanced machine learning pipelines with an intuitive web
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. **Resume & ATS Analyzer**
 
@@ -80,7 +80,7 @@ CareerTwin AI combines advanced machine learning pipelines with an intuitive web
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Backend**
 
@@ -114,7 +114,7 @@ CareerTwin AI combines advanced machine learning pipelines with an intuitive web
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Career-Twin-AI/
@@ -176,7 +176,7 @@ Career-Twin-AI/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -260,7 +260,7 @@ npm run dev
 
 ---
 
-## 📊 API Endpoints
+## API Endpoints
 
 ### Authentication
 
@@ -298,7 +298,7 @@ npm run dev
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### Key Tables
 
@@ -313,7 +313,7 @@ npm run dev
 
 ---
 
-## 🤖 ML Models
+## ML Models
 
 ### 1. **Career Classification Model** (`career_model.joblib`)
 
@@ -337,7 +337,7 @@ npm run dev
 
 ---
 
-## 🔒 Environment Variables
+## Environment Variables
 
 ### Backend (.env)
 
@@ -359,7 +359,7 @@ NEXT_PUBLIC_APP_NAME=CareerTwin AI
 
 ---
 
-## 📝 API Usage Examples
+## API Usage Examples
 
 ### Upload & Analyze Resume
 
@@ -387,7 +387,7 @@ curl -X POST "http://localhost:8000/api/mentor/chat" \
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Backend Tests
 
@@ -405,7 +405,7 @@ npm test
 
 ---
 
-## 🐳 Docker Deployment
+## Docker Deployment
 
 ### Build Images
 
@@ -433,7 +433,7 @@ docker-compose down
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Database Connection Issues
 
@@ -455,7 +455,7 @@ docker-compose down
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **Resume Parsing**: <2 seconds
 - **Salary Prediction**: <500ms
@@ -465,7 +465,7 @@ docker-compose down
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -477,7 +477,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📋 Git Guidelines
+## Git Guidelines
 
 ### Files to Include
 
@@ -516,13 +516,13 @@ mysql_data/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nishant Sharma**
 
@@ -531,7 +531,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🙋 Support & Feedback
+## Support & Feedback
 
 For issues, feature requests, or feedback:
 
@@ -541,7 +541,7 @@ For issues, feature requests, or feedback:
 
 ---
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Next.js Documentation](https://nextjs.org/docs)
